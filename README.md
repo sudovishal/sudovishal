@@ -13,10 +13,16 @@ I am a 3rd year UnderGradaute Student at AC Patil College of Engineering, pursui
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### 🤝🏻 &nbsp;Connect with Me
+<details>
+  <summary>Find me around the web :globe_with_meridians:</summary>
+  [![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/vishalsh)
+[![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/11825619/vishal-shinde)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/sudo_victor/ "Follow on Instagram")
+<!-- ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vishalshinde02/"><img src="https://img.shields.io/badge/-Vishal%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/vishalshinde02"><img src="https://img.shields.io/badge/-@vishalshinde02-E4405F?style=flat&logo=Twitter&logoColor=blue"/></a>
 </p>
+ -->
