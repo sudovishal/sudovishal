@@ -1,8 +1,11 @@
 # Hi there, I'm Vishal 👋
+
 Final year undergrad student aspiring to be a backend engineer. Looking to learn more about backend development and build scalable and reliable applications. While I have limited experience in these technologies, I'm enthusiastic about learning and applying new concepts to build efficient systems. Let's connect and explore opportunities to learn!
+
 Find me on Discord at [@victorshine](discordapp.com/users/700378450229329951)
 
-### Languages, Tools and Frameworks I have used and/or enthusiastic about:  
+---------------------------------------------------------------------------------
+### My Proficiencies and Interests in Technology:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS]( 	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
