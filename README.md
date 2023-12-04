@@ -10,10 +10,7 @@ Final year undergrad student aspiring to be a backend engineer. Looking to learn
 - Express
 - JWT
 - MongoDB
-- Go
 - Docker
-- Postgres
-- Prisma
 
 
 
