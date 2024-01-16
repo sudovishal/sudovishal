@@ -5,12 +5,13 @@ Final year undergrad student aspiring to be a backend engineer. Looking to learn
 ---------------------------------------------------------------------------------
 ### My Proficiencies and Interests in Technology:  
 - JavaScript
-- TypeScript
+- Go
 - NodeJS
 - Express
 - JWT
 - MongoDB
 - Docker
+- Postgresql
 
 
 
