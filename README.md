@@ -6,7 +6,6 @@ Recent undergrad aspiring to be a backend engineer. Looking to learn more about 
 ### My Proficiencies and Interests in Technology:  
 - JavaScript
 - Go
-- TypeScript
 - NodeJS
 - Express
 - MongoDB
